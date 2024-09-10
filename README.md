@@ -1,4 +1,6 @@
 # GitHub Account Finder
+This is the REACT + VITE project
+
 ## Features
 ### Search
 * Search for GitHub accounts by username, email, or location
